@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Social App (Task Submission)
 
 ## 🚀 Tools, Frameworks & Libraries Used
@@ -45,3 +46,6 @@
 ## 📱 Live Demo & Code
 - **APK Download:** [Click here](https://drive.google.com/drive/folders/1qb0r81tpyjyk51AfT4dZIpD7BNub_iWq?hl=ar)  
 - **GitHub Repository:** [Click here](https://github.com/Nour-ah/Profile-and-Networking.git)  
+=======
+# Profile-and-Networking
+
